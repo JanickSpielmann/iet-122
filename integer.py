@@ -33,3 +33,6 @@ for x in range(5,20):
 
 if(d is 5 or 6 or 10):
     print("true")
+
+if(c and not (d is 10)):
+    print("yeah and words")
